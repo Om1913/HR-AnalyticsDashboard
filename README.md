@@ -1,4 +1,5 @@
 👥 HR Analytics Dashboard – Power BI Project
+
 📌 Project Overview
 This project features an interactive HR analytics dashboard built using Power BI. The goal was to help HR departments gain better insights into employee attrition, demographics, and job satisfaction patterns to support data-driven workforce decisions.
 
